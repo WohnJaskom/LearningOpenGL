@@ -1,0 +1,3 @@
+/home/wohn/Documents/OpenGL/build/CMakeFiles/main.dir
+/home/wohn/Documents/OpenGL/build/CMakeFiles/edit_cache.dir
+/home/wohn/Documents/OpenGL/build/CMakeFiles/rebuild_cache.dir

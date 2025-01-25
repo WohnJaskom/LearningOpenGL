@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/wohn/Documents/OpenGL/build",
+  "command": "/usr/bin/g++  -I/home/wohn/Documents/OpenGL/./include -Wall -Wextra -Wpedantic -g -o CMakeFiles/main.dir/src/window.cpp.o -c /home/wohn/Documents/OpenGL/src/window.cpp",
+  "file": "/home/wohn/Documents/OpenGL/src/window.cpp",
+  "output": "CMakeFiles/main.dir/src/window.cpp.o"
+},
+{
+  "directory": "/home/wohn/Documents/OpenGL/build",
+  "command": "/usr/bin/gcc  -I/home/wohn/Documents/OpenGL/./include -Wall -Wextra -Wpedantic -g -o CMakeFiles/main.dir/src/glad.c.o -c /home/wohn/Documents/OpenGL/src/glad.c",
+  "file": "/home/wohn/Documents/OpenGL/src/glad.c",
+  "output": "CMakeFiles/main.dir/src/glad.c.o"
+}
+]
